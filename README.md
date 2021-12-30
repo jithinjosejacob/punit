@@ -10,7 +10,7 @@ Run command - ```composer update```
 
 ***Directories***
 
-app - COntains Application under test
+app - Contains Application under test
 
 tests - test cases for app
 
